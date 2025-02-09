@@ -1,4 +1,4 @@
-# FinxAid
+# BlockXAid
 
 It is an app that provides a solution to organization like NGO and Organization to securely do transactions using blockchain with help of escrow.
 
@@ -7,7 +7,7 @@ It is an app that provides a solution to organization like NGO and Organization 
 ### App
 
 ```bash
-git clone https://github.com/rustedshader/finXaid.git
+git clone https://github.com/rustedshader/blockXaid.git
 ```
 
 ```bash
