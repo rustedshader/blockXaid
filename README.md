@@ -1,6 +1,6 @@
 # BlockXAid
 
-It is an app that provides a solution to organization like NGO and Organization to securely do transactions using blockchain with help of escrow.
+It is an app that provides a solution to organizations, NGO's to do transactions securely using blockchain with the help of escrow.
 
 # To Run
 
